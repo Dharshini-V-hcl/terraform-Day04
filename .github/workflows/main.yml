@@ -37,4 +37,3 @@ jobs:
       # Apply Terraform changes
       - name: Terraform Apply
         run: terraform apply -auto-approve
-
